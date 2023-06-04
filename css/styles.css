@@ -47,6 +47,11 @@ p {
     animation-name: fadein;
 }
 
+.emphasis {
+    color: red;
+    font-style: italic;
+}
+
 @keyframes slidein {
     from {
         margin-left: 100%;
