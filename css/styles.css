@@ -36,6 +36,17 @@ p {
     margin-bottom: 20px;
 }
 
+.about {
+    margin-bottom: 50px;
+}
+.experience p {
+    width:70%;
+    margin-right: auto;
+    margin-left: auto;
+    animation-duration: 3s;
+    animation-name: fadein;
+}
+
 @keyframes slidein {
     from {
         margin-left: 100%;
