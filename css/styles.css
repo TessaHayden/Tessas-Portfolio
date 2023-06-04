@@ -22,6 +22,8 @@ ul {
 img {
     width: 30%;
     float: left;
+    padding: 1%;
+    margin-right: 50px;
     animation-duration: 5s;
     animation-name: fadein;
 }
@@ -39,6 +41,11 @@ p {
 .about {
     margin-bottom: 50px;
 }
+
+.code {
+    margin-top: 70px;
+}
+
 .experience p {
     width:70%;
     margin-right: auto;
